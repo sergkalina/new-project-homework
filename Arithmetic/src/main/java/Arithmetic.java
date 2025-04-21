@@ -6,7 +6,7 @@ public class Arithmetic {
         this.b = b;
     }
     public void sum() {
-        System.out.println("Произведение чисел = " + (a + b));
+        System.out.println("Произведение чисел123 = " + (a + b));
     }
     public void multiplication() {
         System.out.println("Умножение чисел = " + (a * b));

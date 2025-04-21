@@ -4,6 +4,11 @@ public class Dimensions {
     private final double height;
     private final double length;
 
+
+
+
+    
+
     public Dimensions(double width, double height, double length) {
         this.width = width;
         this.height = height;
