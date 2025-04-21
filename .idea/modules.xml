@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Arithmetic/Arithmetic.iml" filepath="$PROJECT_DIR$/Arithmetic/Arithmetic.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Encapsulation/Encapsulation.iml" filepath="$PROJECT_DIR$/Encapsulation/Encapsulation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/EncapsulationExperiments/EncapsulationExperiments.iml" filepath="$PROJECT_DIR$/EncapsulationExperiments/EncapsulationExperiments.iml" />
+      <module fileurl="file://$PROJECT_DIR$/GeometryCalculator/GeometryCalculator.iml" filepath="$PROJECT_DIR$/GeometryCalculator/GeometryCalculator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Immutability/Immutability.iml" filepath="$PROJECT_DIR$/Immutability/Immutability.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ObjectsAndClasses_Methods/ObjectsAndClasses_Methods.iml" filepath="$PROJECT_DIR$/ObjectsAndClasses_Methods/ObjectsAndClasses_Methods.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Primitives/Primitives.iml" filepath="$PROJECT_DIR$/Primitives/Primitives.iml" />
+      <module fileurl="file://$PROJECT_DIR$/StaticExperiments/StaticExperiments.iml" filepath="$PROJECT_DIR$/StaticExperiments/StaticExperiments.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java_basics.iml" filepath="$PROJECT_DIR$/java_basics.iml" />
+    </modules>
+  </component>
+</project>
