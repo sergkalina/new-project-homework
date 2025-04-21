@@ -1,10 +1,10 @@
 public class CargoInfo {
 
-    private final Dimensions dimensions;   // габариты
-    private final int weight;              // масса груза
+    private final Dimensions dimensions;   // габариты груза
+    private final int weight;              // масса 
     private final String deliveryAdress;  // адресс доставки
-    private final boolean possibleToFlip;  // можно ли переворачивать груз
-    private final String regNumber;        // регистрационный номер
+    private final boolean possibleToFlip;  // можно ли переворачивать 
+    private final String regNumber;        // регистрационный 
     private final boolean fragileCargo;    // является ли груз хрупким
 
     public CargoInfo(Dimensions dimensions,
